@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "REVIEW_ID",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "AIRLINE_NAME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "OVERALL_RATING",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "REVIEW_TITLE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "REVIEW_DATE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "VERIFIED",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "REVIEW",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "AIRCRAFT",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "TYPE_OF_TRAVELLER",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "SEAT_TYPE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ROUTE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DATE_FLOWN",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "SEAT_COMFORT",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "CABIN_STAFF_SERVICE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "FOOD_BEVERAGES",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "GROUND_SERVICE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "INFLIGHT_ENTERTAINMENT",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "WIFI_CONNECTIVITY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "VALUE_FOR_MONEY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "RECOMMENDED",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "IATA_CODE",
+    "Type": "string",
+    "Comment": ""
+  }
+]

@@ -1,0 +1,95 @@
+AIRPORT_ID,Airport_Display_Name,Airport_Name,City,State
+12992,Adams Field,"NORTH LITTLE ROCK AIRPORT, AR US",Little Rock,Arkansas
+10257,Albany International,"ALBANY INTERNATIONAL AIRPORT, NY US",Albany,New York
+10140,Albuquerque International Sunport,"ALBUQUERQUE INTERNATIONAL AIRPORT, NM US",Albuquerque,New Mexico
+10299,Anchorage International,"ANCHORAGE TED STEVENS INTERNATIONAL AIRPORT, AK US",Anchorage,Alaska
+10397,Atlanta Municipal,"ATLANTA HARTSFIELD JACKSON INTERNATIONAL AIRPORT, GA US",Atlanta,Georgia
+10423,Austin - Bergstrom International,"AUSTIN BERGSTROM INTERNATIONAL AIRPORT, TX US",Austin,Texas
+10599,Birmingham Airport,"BIRMINGHAM AIRPORT, AL US",Birmingham,Alabama
+10529,Bradley International,"HARTFORD BRADLEY INTERNATIONAL AIRPORT, CT US",Hartford,Connecticut
+10994,Charleston International,"CHARLESTON INTL. AIRPORT, SC US",Charleston,South Carolina
+13232,Chicago Midway International,"CHICAGO OHARE INTERNATIONAL AIRPORT, IL US",Chicago,Illinois
+13930,Chicago O'Hare International,"CHICAGO OHARE INTERNATIONAL AIRPORT, IL US",Chicago,Illinois
+11193,Cincinnati/Northern Kentucky International,"CINCINNATI MUNICIPAL AIRPORT LUNKEN FIELD, OH US",Cincinnati,Ohio
+11042,Cleveland-Hopkins International,"CLEVELAND HOPKINS INTERNATIONAL AIRPORT, OH US",Cleveland,Ohio
+11298,Dallas Fort Worth Regional,"FORT WORTH MEACHAM FIELD, TX US",Dallas/Fort Worth,Texas
+11259,Dallas Love Field,"DALLAS FAA AIRPORT, TX US",Dallas,Texas
+11423,Des Moines Municipal,"DES MOINES INTERNATIONAL AIRPORT, IA US",Des Moines,Iowa
+11433,Detroit Metro Wayne County,"DETROIT METRO AIRPORT, MI US",Detroit,Michigan
+11057,Douglas Municipal,"CHARLOTTE DOUGLAS AIRPORT, NC US",Charlotte,North Carolina
+11540,El Paso International,"EL PASO INTERNATIONAL AIRPORT, TX US",El Paso,Texas
+13871,Eppley Airfield,"GRAND ISLAND CENTRAL NE REGIONAL AIRPORT, NE US",Omaha,Nebraska
+11697,Fort Lauderdale-Hollywood International,"FORT LAUDERDALE INTERNATIONAL AIRPORT, FL US",Fort Lauderdale,Florida
+11638,Fresno Air Terminal,"FRESNO YOSEMITE INTERNATIONAL, CA US",Fresno,California
+10821,Friendship International,"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",Baltimore,Maryland
+13342,General Mitchell Field,"MILWAUKEE MITCHELL AIRPORT, WI US",Milwaukee,Wisconsin
+10792,Greater Buffalo International,"BUFFALO NIAGARA INTERNATIONAL, NY US",Buffalo,New York
+11996,Greenville-Spartanburg,"GREENVILLE DOWNTOWN AIRPORT, SC US",Greer,South Carolina
+10800,Grenier Field/Manchester Municipal,"MANCHESTER AIRPORT, NH US",Manchester,New Hampshire
+12173,Hollywood-Burbank Midpoint,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",Burbank,California
+12266,Honolulu International,"HONOLULU INTERNATIONAL AIRPORT, HI US",Honolulu,Hawaii
+12339,Indianapolis Muni/Weir Cook,"INDIANAPOLIS INTERNATIONAL AIRPORT, IN US",Indianapolis,Indiana
+12451,Jacksonville International,"JACKSONVILLE INTERNATIONAL AIRPORT, FL US",Jacksonville,Florida
+11267,James M Cox/Dayton International,"DAYTON WRIGHT BROTHERS AIRPORT, OH US",Dayton,Ohio
+12478,John F. Kennedy International,"LAGUARDIA AIRPORT, NY US",New York,New York
+13830,Kahului Airport,"HONOLULU INTERNATIONAL AIRPORT, HI US",Kahului,Hawaii
+13198,Kansas City International,"KANSAS CITY INTERNATIONAL AIRPORT, MO US",Kansas City,Missouri
+12758,Keahole,"KAILUA KONA KE AHOLE AIRPORT, HI US",Kona,Hawaii
+11986,Kent County,"GRAND RAPIDS GERALD R FORD INTERNATIONAL AIRPORT, MI US",Grand Rapids,Michigan
+12953,LaGuardia,"LAGUARDIA AIRPORT, NY US",New York,New York
+15016,Lambert-St. Louis International,"ST LOUIS LAMBERT INTERNATIONAL AIRPORT, MO US",St. Louis,Missouri
+12982,Lihue Airport,"LIHUE WEATHER SERVICE OFFICE AIRPORT 1020.1, HI US",Lihue,Hawaii
+10721,Logan International,"BOSTON, MA US",Boston,Massachusetts
+12954,Long Beach Daugherty Field,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",Long Beach,California
+12892,Los Angeles International,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",Los Angeles,California
+13495,Louis Armstrong New Orleans International,"NEW ORLEANS AIRPORT, LA US",New Orleans,Louisiana
+12889,McCarran International,"MCCARRAN INTERNATIONAL AIRPORT, NV US",Las Vegas,Nevada
+15412,McGhee Tyson,"KNOXVILLE AIRPORT, TN US",Knoxville,Tennessee
+13244,Memphis International,"MEMPHIS INTERNATIONAL AIRPORT, TN US",Memphis,Tennessee
+13796,Metropolitan Oakland International,"SACRAMENTO METROPOLITAN AIRPORT, CA US",Oakland,California
+13303,Miami International,"MIAMI INTERNATIONAL AIRPORT, FL US",Miami,Florida
+13487,Midland Regional Air Trml,"PORT ARTHUR SE TX REGIONAL AIRPORT, TX US",Midland/Odessa,Texas
+13577,Minneapolis-St Paul International,"MINNEAPOLIS ST. PAUL INTERNATIONAL AIRPORT, MN US",Minneapolis,Minnesota
+10693,Myrtle Beach International,"NORTH MYRTLE BEACH, SC US",Myrtle Beach,South Carolina
+11618,Newark Liberty International,"NEWARK LIBERTY INTERNATIONAL AIRPORT, NJ US",Newark,New Jersey
+13931,Norfolk International,"NORFOLK INTERNATIONAL AIRPORT, VA US",Norfolk,Virginia
+15919,Northwest Arkansas Regional,"FAYETTEVILLE SPRINGDALE NW AR REGL AIRPORT, AR US",Fayetteville,Arkansas
+13891,Ontario International,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",Ontario,California
+14908,Orange County,"SANTA ANA JOHN WAYNE AIRPORT, CA US",Santa Ana,California
+13204,Orlando International,"ORLANDO INTERNATIONAL AIRPORT, FL US",Orlando,Florida
+14027,Palm Beach International,"WEST PALM BEACH INTERNATIONAL AIRPORT, FL US",West Palm Beach/Palm Beach,Florida
+14262,Palm Springs International,"DESERT RESORTS REGIONAL AIRPORT, CA US",Palm Springs,California
+14193,Pensacola Regional,"TALLAHASSEE REGIONAL AIRPORT, FL US",Pensacola,Florida
+14100,Philadelphia International,"PHILADELPHIA INTERNATIONAL AIRPORT, PA US",Philadelphia,Pennsylvania
+14107,Phoenix Sky Harbor International,"PHOENIX AIRPORT, AZ US",Phoenix,Arizona
+11995,Piedmont Triad International,"GREENSBORO AIRPORT, NC US",Greensboro/High Point,North Carolina
+14122,Pittsburgh International,"PITTSBURGH ALLEGHENY CO AIRPORT, PA US",Pittsburgh,Pennsylvania
+11066,Port Columbus International,"COLUMBUS OHIO STATE UNIVERSITY AIRPORT, OH US",Columbus,Ohio
+14057,Portland International,"PORTLAND INTERNATIONAL AIRPORT, OR US",Portland,Oregon
+14321,Portland International Jetport,"PORTLAND JETPORT, ME US",Portland,Maine
+14492,Raleigh-Durham International,"RALEIGH AIRPORT, NC US",Raleigh/Durham,North Carolina
+14570,Reno/Tahoe International,"RENO AIRPORT, NV US",Reno,Nevada
+14524,Richmond International,"RICHMOND INTERNATIONAL AIRPORT, VA US",Richmond,Virginia
+14576,Rochester Monroe County,"ROCHESTER GREATER INTERNATIONAL, NY US",Rochester,New York
+14893,Sacramento International,"SACRAMENTO METROPOLITAN AIRPORT, CA US",Sacramento,California
+14869,Salt Lake City International,"SALT LAKE CITY INTERNATIONAL AIRPORT, UT US",Salt Lake City,Utah
+14683,San Antonio International,"SAN ANTONIO INTERNATIONAL AIRPORT, TX US",San Antonio,Texas
+14679,San Diego International Lindbergh Fl,"SAN DIEGO INTERNATIONAL AIRPORT, CA US",San Diego,California
+14771,San Francisco International,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US",San Francisco,California
+14831,San Jose International,"SAN JOSE INTERNATIONAL AIRPORT, CA US",San Jose,California
+14761,Sanford NAS,"TALLAHASSEE REGIONAL AIRPORT, FL US",Sanford,Florida
+14685,Savannah/Hilton Head International,"SAVANNAH INTERNATIONAL AIRPORT, GA US",Savannah,Georgia
+14747,Seattle International,"SEATTLE TACOMA AIRPORT, WA US",Seattle,Washington
+14635,Southwest Florida International,"FORT MYERS SW FLORIDA REGIONAL AIRPORT, FL US",Fort Myers,Florida
+11884,Spokane International,"SPOKANE INTERNATIONAL AIRPORT, WA US",Spokane,Washington
+14730,Standiford Field,"LOUISVILLE INTERNATIONAL AIRPORT, KY US",Louisville,Kentucky
+11292,Stapleton International,"DENVER INTERNATIONAL AIRPORT, CO US",Denver,Colorado
+15096,Syracuse Hancock International,"SYRACUSE HANCOCK INTERNATIONAL AIRPORT, NY US",Syracuse,New York
+15304,Tampa International,"TAMPA INTERNATIONAL AIRPORT, FL US",Tampa,Florida
+14307,Theodore Francis Green State,"NEWPORT STATE AIRPORT, RI US",Providence,Rhode Island
+13485,Truax Field,"MADISON DANE CO REGIONAL AIRPORT, WI US",Madison,Wisconsin
+15376,Tucson International,"PHOENIX AIRPORT, AZ US",Tucson,Arizona
+15370,Tulsa International,"OKLAHOMA CITY WILL ROGERS WORLD AIRPORT, OK US",Tulsa,Oklahoma
+13851,Will Rogers World,"OKLAHOMA CITY WILL ROGERS WORLD AIRPORT, OK US",Oklahoma City,Oklahoma
+12191,William P Hobby,"HOUSTON WILLIAM P HOBBY AIRPORT, TX US",Houston,Texas
+10713,Boise Air Terminal,"BOISE AIR TERMINAL, ID US",Boise,Idaho

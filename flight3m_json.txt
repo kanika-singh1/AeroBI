@@ -1,0 +1,172 @@
+[
+  {
+    "Name": "FL_DATE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "AIRLINE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "AIRLINE_DOT",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "IATA_CODE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DOT_CODE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "FL_NUMBER",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ORIGIN",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ORIGIN_CITY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DEST",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "CRS_DEP_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DEP_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DEP_DELAY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "TAXI_OUT",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "WHEELS_OFF",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "WHEELS_ON",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "TAXI_IN",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "CRS_ARR_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ARR_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ARR_DELAY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "CANCELLED",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "CANCELLATION_CODE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DIVERTED",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "CRS_ELAPSED_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ELAPSED_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "AIR_TIME",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DISTANCE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DELAY_DUE_CARRIER",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DELAY_DUE_WEATHER",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DELAY_DUE_NAS",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DELAY_DUE_SECURITY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DELAY_DUE_LATE_AIRCRAFT",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "ORIGIN_STATE",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DESTINATION_CITY",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "DESTINATION_STATE",
+    "Type": "string",
+    "Comment": ""
+  }
+]
