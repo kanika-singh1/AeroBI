@@ -1,10 +1,10 @@
 # ✈️ AeroBI
 Business Intelligence Project
-
+<br>
 
 ## 📌 Background
 Flight delays and cancellations continue to be a major challenge for the airline industry, leading to passenger frustration and operational inefficiencies. This project utilizes data warehousing, ETL, machine learning, and visualization techniques to analyze historical flight data, uncover trends, and generate actionable insights to enhance operational efficiency and customer satisfaction.
-
+<br>
 
 ## 🎯 Objectives
 - Analyze historical flight data to identify trends in delays and cancellations
@@ -12,14 +12,14 @@ Flight delays and cancellations continue to be a major challenge for the airline
 - Perform sentiment analysis on airline reviews to assess passenger sentiment
 - Design and implement a Data Warehouse (DW) using a Star Schema
 - Develop interactive dashboards for real-time insights and decision-making
-
+<br>
 
 ## 📂 Project Components
 
 ### 1️⃣ Datasets
-Flight Delays & Cancellations (3M+ records, 30+ attributes) – [Link]([https://example.com](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv)).
-Airline Customer Reviews (23K+ reviews) – [Link](https://www.kaggle.com/datasets/juhibhojani/airline-reviews)
-Airport Metadata (380 records).
+- Flight Delays & Cancellations (3M+ records, 30+ attributes) – [Link]([https://example.com](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv)).
+- Airline Customer Reviews (23K+ reviews) – [Link](https://www.kaggle.com/datasets/juhibhojani/airline-reviews)
+- Airport Metadata (380 records).
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 Data Cleaning: Addressed missing values, removed duplicates, and standardized attributes.
@@ -43,16 +43,15 @@ Key Dashboards:
 3. Real-Time Flight Tracker Dashboard
   - Monitors live flight status updates.
   - Tracks delays and reasons for disruptions in real time.
-
+<br>
 
 ## 🚀 Technologies Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn, NLTK, TextBlob)
-- SQL Server (ETL, SSIS)
-- Visio (Star Schema)
-- Power BI (Data Visualization, Dashboards)
-- Jupyter Notebooks (EDA, Sentiment Analysis)
-- Kaggle (Data Source)
-
+- **Programming Languages:** Python  
+- **Tools & Libraries:** Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, NLTK, TextBlob  
+- **Data Warehousing & ETL:** SQL Server, SSIS, SSMS 
+- **Data Visualization:** Power BI  
+- **Data Source:** Kaggle
+<br>
 
 ## 📜 Business Implications
 The insights derived from this project offer value to multiple stakeholders including:
