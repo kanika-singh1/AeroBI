@@ -2,9 +2,11 @@
 Business Intelligence Project
 <br>
 
+
 ## 📌 Background
 Flight delays and cancellations continue to be a major challenge for the airline industry, leading to passenger frustration and operational inefficiencies. This project utilizes data warehousing, ETL, machine learning, and visualization techniques to analyze historical flight data, uncover trends, and generate actionable insights to enhance operational efficiency and customer satisfaction.
 <br>
+
 
 ## 🎯 Objectives
 - Analyze historical flight data to identify trends in delays and cancellations
